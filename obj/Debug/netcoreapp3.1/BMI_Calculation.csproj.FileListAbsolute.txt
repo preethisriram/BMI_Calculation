@@ -1,0 +1,14 @@
+C:\Users\v-psriram\source\repos\BMI_Calculation\bin\Debug\netcoreapp3.1\BMI_Calculation.exe
+C:\Users\v-psriram\source\repos\BMI_Calculation\bin\Debug\netcoreapp3.1\BMI_Calculation.deps.json
+C:\Users\v-psriram\source\repos\BMI_Calculation\bin\Debug\netcoreapp3.1\BMI_Calculation.runtimeconfig.json
+C:\Users\v-psriram\source\repos\BMI_Calculation\bin\Debug\netcoreapp3.1\BMI_Calculation.runtimeconfig.dev.json
+C:\Users\v-psriram\source\repos\BMI_Calculation\bin\Debug\netcoreapp3.1\BMI_Calculation.dll
+C:\Users\v-psriram\source\repos\BMI_Calculation\bin\Debug\netcoreapp3.1\BMI_Calculation.pdb
+C:\Users\v-psriram\source\repos\BMI_Calculation\obj\Debug\netcoreapp3.1\BMI_Calculation.csproj.AssemblyReference.cache
+C:\Users\v-psriram\source\repos\BMI_Calculation\obj\Debug\netcoreapp3.1\BMI_Calculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v-psriram\source\repos\BMI_Calculation\obj\Debug\netcoreapp3.1\BMI_Calculation.AssemblyInfoInputs.cache
+C:\Users\v-psriram\source\repos\BMI_Calculation\obj\Debug\netcoreapp3.1\BMI_Calculation.AssemblyInfo.cs
+C:\Users\v-psriram\source\repos\BMI_Calculation\obj\Debug\netcoreapp3.1\BMI_Calculation.csproj.CoreCompileInputs.cache
+C:\Users\v-psriram\source\repos\BMI_Calculation\obj\Debug\netcoreapp3.1\BMI_Calculation.dll
+C:\Users\v-psriram\source\repos\BMI_Calculation\obj\Debug\netcoreapp3.1\BMI_Calculation.pdb
+C:\Users\v-psriram\source\repos\BMI_Calculation\obj\Debug\netcoreapp3.1\BMI_Calculation.genruntimeconfig.cache
